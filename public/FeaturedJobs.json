@@ -1,0 +1,440 @@
+{
+    "job_listings": [
+      {
+        "id": 1,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+    
+      {
+        "id": 2,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 3,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 4,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 5,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 6,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 7,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 8,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 9,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 10,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 11,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      },
+
+      {
+        "id": 12,
+        "company_logo": "https://example.com/logo.png",
+        "company_name": "Airbnb",
+        "job_title": "Senior Backend Developer",
+        "location": {
+        "address": "Dhaka, Bangladesh",
+          "icon": "https://example.com/icons/location.png"
+        },
+        "employment_type": "Full-time",
+        "job_type": "Onsite",
+        "salary": {
+          "range": "120K - 140K",
+          "salary_time": "per month",
+          "icon": "https://example.com/icons/salary.png"
+        },
+        "job_description": "We are looking for a talented Senior Backend Developer to join our team and help build scalable and high-performance web applications.",
+        "job_responsibilities": [
+          "Design and develop RESTful APIs and microservices.",
+          "Write clean, maintainable, and testable code.",
+          "Collaborate with cross-functional teams to define and deliver high-quality software solutions."
+        ],
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+        "experience_requirements": "5+ years of experience in backend development.",
+        "contact_information": {
+          "phone": {
+            "number": "01348758486996",
+            "icon": "https://example.com/icons/phone.png"
+          },
+          "email": {
+            "address": "jobs@Airbnb.com",
+            "icon": "https://example.com/icons/email.png"
+          }
+        }
+      }
+
+    ]
+  }
+  
+      
+         
+  
