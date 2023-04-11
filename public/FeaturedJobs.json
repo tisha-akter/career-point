@@ -1,10 +1,12 @@
-{
-    "job_listings": [
+ [
         {
             "id": 1,
             "company_logo": "https://i.ibb.co/KwmYfyK/Group-10021.png",
             "company_name": "Airbnb",
-            "job_title": "Senior Backend Developer",
+            "job_title": {
+                "tittle": "Senior Backend Developer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            },
             "location": {
                 "address": "Dhaka, Bangladesh",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -39,7 +41,10 @@
             "id": 2,
             "company_logo": "https://i.ibb.co/vB91rV7/google-1-1-1.png",
             "company_name": "Google",
-            "job_title": "Senior Frontend Developer",
+            "job_title": {
+                "tittle": "Senior Frontend Developer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            },
             "location": {
                 "address": "New York, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -74,7 +79,10 @@
             "id": 3,
             "company_logo": "https://i.ibb.co/n3RgMLz/netflix-4-1.png",
             "company_name": "Netflix",
-            "job_title": "Senior Backend Engineer",
+            "job_title":{
+                "tittle": "Senior Backend Engineer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            }, 
             "location": {
                 "address": "New York, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -109,7 +117,10 @@
             "id": 4,
             "company_logo": "https://i.ibb.co/rm5NWSn/tesla-9-1.png",
             "company_name": "Tesla",
-            "job_title": "Software Engineer",
+            "job_title": {
+                "tittle": "Software Engineer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            },
             "location": {
                 "address": "Brooklyn, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -142,7 +153,10 @@
             "id": 5,
             "company_logo": "https://i.ibb.co/vB91rV7/google-1-1-1.png",
             "company_name": "Google",
-            "job_title": "Software Development Engineer",
+            "job_title": {
+                "tittle": "Software Development Engineer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            },
             "location": {
                 "address": "New York, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -177,7 +191,10 @@
             "id": 6,
             "company_logo": "https://i.ibb.co/n3RgMLz/netflix-4-1.png",
             "company_name": "Netflix",
-            "job_title": "Machine Learning Engineer",
+            "job_title": {
+                "tittle": "Machine Learning Engineer",
+                "icon": "https://i.ibb.co/vJkF9hZ/Frame-1.png"
+            },
             "location": {
                 "address": "New York, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
@@ -209,4 +226,3 @@
             }
         }
     ]
-}
