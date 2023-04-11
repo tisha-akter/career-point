@@ -10,6 +10,7 @@ import Statistics from './components/Statistics'
 import FeaturedJobs from './components/FeaturedJobs/FeaturedJobs'
 import Blog from './components/Blog/Blog'
 import Error from './Error'
+import JobDetails from './components/JobDetails/JobDetails'
 
 
 const router = createBrowserRouter([
@@ -37,6 +38,11 @@ const router = createBrowserRouter([
       path: 'featured-jobs',
       element: <FeaturedJobs></FeaturedJobs>,
       // loader: () => fetch('FeaturedJobs.json'),
+    },
+    {
+      path: 'job-details/:jobId',
+      element: <JobDetails></JobDetails>,
+      loader: async ({ params }) => fetch(`FeaturedJobs.json`)
     },
 
     {

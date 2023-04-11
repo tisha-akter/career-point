@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 const FeaturedJobs = () => {
     const [jobsData, setJobsData] = useState([]);
@@ -45,7 +46,11 @@ const FeaturedJobs = () => {
                                 Salary: {job.salary.range}
                             </p>
                         </div>
-                        <button type="button" className="text-white bg-indigo-500 hover:bg-indigo-700 rounded-lg py-2 px-4 font-semibold focus:outline-none focus:shadow-outline sm:mb-0">View Details</button>
+                        
+                        <Link to={`/job-details/${job.id}`}>
+                            <button type="button" className="text-white bg-indigo-500 hover:bg-indigo-700 rounded-lg py-2 px-4 font-semibold focus:outline-none focus:shadow-outline sm:mb-0">View Details</button>
+                        </Link>
+
                     </div>
                 ))}
             </div>
