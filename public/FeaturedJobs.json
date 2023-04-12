@@ -49,8 +49,8 @@
                 "address": "New York, NY",
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
             },
-            "employment_type": "Full-time",
-            "job_type": "Onsite",
+            "employment_type": "Part-time",
+            "job_type": "Remote",
             "salary": {
                 "range": "12K - 16K",
                 "salary_time": "per month",
@@ -88,7 +88,7 @@
                 "icon": "https://i.ibb.co/W2tp3Hj/Frame-4.png"
             },
             "employment_type": "Full-time",
-            "job_type": "Onsite",
+            "job_type": "Remote",
             "salary": {
                 "range": "15K - 18K",
                 "salary_time": "per month",
