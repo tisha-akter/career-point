@@ -4,10 +4,13 @@ import { useLoaderData, useParams } from 'react-router-dom';
 const JobDetails = () => {
     const { jobId } = useParams();
     const allJobs = useLoaderData();
-    const jobInfo = allJobs.filter(job => job.id == jobId );
-     
+    const jobInfo = allJobs.filter(job => job.id == jobId);
+
     return (
         <div className=''>
+            <div className='bg-indigo-50 text-center'>
+                <h3 className='pb-28 py-20 text-2xl font-bold '>Job Details</h3>
+            </div>
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto flex flex-wrap ">
                     <div className="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">

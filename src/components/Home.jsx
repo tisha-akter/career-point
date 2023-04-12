@@ -10,7 +10,6 @@ const Home = () => {
             <Hero></Hero>
             <JobCategory></JobCategory>
             <FeaturedJobs></FeaturedJobs>
-            
         </div>
     );
 };
