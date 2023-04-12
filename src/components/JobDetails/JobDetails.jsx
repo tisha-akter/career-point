@@ -28,7 +28,7 @@ const JobDetails = () => {
     return (
         <div className=''>
             <div className='bg-indigo-50 text-center'>
-                <h3 className='pb-28 py-20 text-2xl font-bold '>Job Details</h3>
+                <h3 className='pb-28 py-20 text-2xl font-bold '>You Will Find Your Preferable Job Details Here!!</h3>
             </div>
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto flex flex-wrap ">

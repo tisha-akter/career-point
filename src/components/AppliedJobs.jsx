@@ -37,7 +37,7 @@ const AppliedJobs = () => {
         <div>
             {/* banner  */}
             <div className='bg-indigo-50 text-center'>
-                <h3 className='pb-28 py-20 text-2xl font-bold '>Applied Jobs</h3>
+                <h3 className='pb-28 py-20 text-2xl font-bold '>You Will Find YOur Applied Jobs Here!</h3>
             </div>
 
             <div className='container px-5 py-24 mx-auto items-center'>
